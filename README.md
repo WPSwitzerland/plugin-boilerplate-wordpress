@@ -104,9 +104,9 @@ If you don't use [Composer](https://getcomposer.org/doc/00-intro.md) and you don
 * Initial version from 2014
 
 ## Contributors
-* Mark Howells-Mead | www.markweb.ch
+* Mark Howells-Mead | [markweb.ch](https://www.markweb.ch)
 * Mauro Bringolf | [maurobringolf.ch](https://maurobringolf.ch)
-* Nico Martin | www.nicomartin.ch
+* Nico Martin | [nicomartin.ch](https://www.nicomartin.ch)
 
 ## License
 Use this code freely, widely and for free. Provision of this code provides and implies no guarantee.
