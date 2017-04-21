@@ -3,13 +3,15 @@
 ## Description
 A starting point for development of a WordPress plugin using PHP namespaces. The use of PHP namespaces means that plugins built using this code require PHP 5.3 or newer.
 
-The code in this boilerplate adheres to the PSR-2 coding guidelines, not WordPress' own standards.
-
 You're currently reading the contents of ``README.md``, which is not required for your plugin. (Although your own version is recommended for documentational purposes.)
 
 The file ``README.txt`` is the one which the WordPress Plugin Repository needs.
 
+## Coding Standards
+The code in this boilerplate adheres to [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards), not PSR-2. For a PSR-2 version, use [this version](https://github.com/WPSwitzerland/plugin-boilerplate-psr) instead.
+
 ## Usage
+
 This code has no function of its own. It is a starting point for plugin developers. Do not install this code as a plugin without first customizing it.
 
 ### Liability
