@@ -1,5 +1,9 @@
 # WordPress plugin boilerplate - WordPress standard
 
+## Warning
+
+This version is not maintained. Please use the [PSR-2 version](https://github.com/WPSwitzerland/plugin-boilerplate-psr) instead.
+
 ## Description
 A starting point for development of a WordPress plugin using PHP namespaces. The use of PHP namespaces means that plugins built using this code require PHP 5.3 or newer.
 
